@@ -2,7 +2,7 @@
 
 My organized collection of AI tools, creative apps and study resources. Checked: 29 October 2026.
 
-All 19 resource mentions are accounted for: **17 unique resources** (8 repositories and 9 reference pages). REA and the GPU article were each supplied twice.
+All 20 resource mentions are accounted for: **18 unique resources** (9 repositories and 9 reference pages). REA and the GPU article were each supplied twice.
 
 ## AI tools
 
@@ -12,6 +12,8 @@ All 19 resource mentions are accounted for: **17 unique resources** (8 repositor
 | Graphify | [graphify](https://github.com/vi14cute/graphify) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Codebase knowledge graphs |
 | FreeLLMAPI | [freellmapi](https://github.com/vi14cute/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | Personal experiments with model routing and providers |
 | Agent-Reach | [Agent-Reach](https://github.com/vi14cute/Agent-Reach) | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Agent web reading and search |
+
+| Agentic Awesome Skills | [agentic-awesome-skills](https://github.com/vi14cute/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Reusable agent instructions, skill discovery and workflow planning |
 
 ## Creative applications
 
@@ -44,7 +46,7 @@ These are source-code forks preserving authorship and history. Forking does not 
 - [Founder Skill](https://github.com/Jakeschincariol/founder-skill), linked by Startup Skills.
 - [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar), linked by The FILM Guide.
 
-These are related references. The eight requested forks cover repositories directly supplied in the original list.
+These are related references. The nine requested forks cover repositories directly supplied in the original list.
 
 ## Suggested learning order
 
@@ -81,5 +83,6 @@ All branches were selected during creation. Observed counts after creation:
 | figcraft | 83 | 12 |
 | soundcraft | 20 | 11 |
 | craft-launcher | 20 | 15 |
+| agentic-awesome-skills | 16 | 252 |
 
 Counts can change with future updates.
