@@ -2,7 +2,7 @@
 
 My organized collection of AI tools, creative apps and study resources. Checked: 29 October 2026.
 
-All 20 resource mentions are accounted for: **18 unique resources** (9 repositories and 9 reference pages). REA and the GPU article were each supplied twice.
+All 24 resource mentions are accounted for: **22 unique resources** (10 repositories and 12 reference pages). REA and the GPU article were each supplied twice.
 
 ## AI tools
 
@@ -14,6 +14,8 @@ All 20 resource mentions are accounted for: **18 unique resources** (9 repositor
 | Agent-Reach | [Agent-Reach](https://github.com/vi14cute/Agent-Reach) | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Agent web reading and search |
 
 | Agentic Awesome Skills | [agentic-awesome-skills](https://github.com/vi14cute/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Reusable agent instructions, skill discovery and workflow planning |
+
+| MCP vs Code Mode | [mcp-vs-code-mode](https://github.com/vi14cute/mcp-vs-code-mode) | [manojkanur/mcp-vs-code-mode](https://github.com/manojkanur/mcp-vs-code-mode) | Learning and measuring tool orchestration token costs |
 
 ## Creative applications
 
@@ -46,7 +48,7 @@ These are source-code forks preserving authorship and history. Forking does not 
 - [Founder Skill](https://github.com/Jakeschincariol/founder-skill), linked by Startup Skills.
 - [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar), linked by The FILM Guide.
 
-These are related references. The nine requested forks cover repositories directly supplied in the original list.
+These are related references. The ten requested forks cover repositories directly supplied in the original list.
 
 ## Suggested learning order
 
@@ -86,3 +88,14 @@ All branches were selected during creation. Observed counts after creation:
 | agentic-awesome-skills | 16 | 252 |
 
 Counts can change with future updates.
+
+## Token efficiency study — 30 October 2026
+
+[Source-code review, benchmark limitations and practical guidance](notes/mcp-code-mode-review.md).
+
+Additional references preserved:
+- [Claude artifact](https://claude.ai/artifact/GXqK2CGJi3Qj5STPMj3eEh) — reader access failed; content unverified.
+- [Community interest page](https://becomeaneagle.edgeone.app/?form=form_manoj-interest-whatsapp) — reader access failed; no form submitted.
+- [The AI Dude profile](https://topmate.io/the_ai_dude) — creator and consulting reference.
+
+UTCP is not an official MCP 2.0. Code Mode can run on top of MCP. Reported savings in this demo are single-run results, not independently reproduced guarantees.
