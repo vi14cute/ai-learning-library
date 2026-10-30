@@ -1,8 +1,8 @@
 # AI Learning Library
 
-My organized collection of AI tools, creative apps and study resources. Checked: 29 October 2026.
+My organized collection of AI tools, creative apps and study resources. Checked: 30 October 2026.
 
-All 24 resource mentions are accounted for: **22 unique resources** (10 repositories and 12 reference pages). REA and the GPU article were each supplied twice.
+This index now includes **15 requested repository forks**, the earlier study references, and the creative links from the two supplied PDFs. This is the library's scope, not the total repository count on my GitHub account. REA and the GPU article were each originally supplied twice.
 
 ## AI tools
 
@@ -12,10 +12,22 @@ All 24 resource mentions are accounted for: **22 unique resources** (10 reposito
 | Graphify | [graphify](https://github.com/vi14cute/graphify) | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Codebase knowledge graphs |
 | FreeLLMAPI | [freellmapi](https://github.com/vi14cute/freellmapi) | [tashfeenahmed/freellmapi](https://github.com/tashfeenahmed/freellmapi) | Personal experiments with model routing and providers |
 | Agent-Reach | [Agent-Reach](https://github.com/vi14cute/Agent-Reach) | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | Agent web reading and search |
-
 | Agentic Awesome Skills | [agentic-awesome-skills](https://github.com/vi14cute/agentic-awesome-skills) | [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) | Reusable agent instructions, skill discovery and workflow planning |
-
 | MCP vs Code Mode | [mcp-vs-code-mode](https://github.com/vi14cute/mcp-vs-code-mode) | [manojkanur/mcp-vs-code-mode](https://github.com/manojkanur/mcp-vs-code-mode) | Learning and measuring tool orchestration token costs |
+
+## Machine learning study repositories — PDF additions
+
+[PDF coverage and learning notes](notes/pdf-resources-2026-10-30.md).
+
+| Original | My fork | Use |
+| --- | --- | --- |
+| [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) | [ML-For-Beginners](https://github.com/vi14cute/ML-For-Beginners) | Machine-learning foundations: regression, classification and clustering |
+| [ageron/handson-mlp](https://github.com/ageron/handson-mlp) | [handson-mlp](https://github.com/vi14cute/handson-mlp) | Hands-on algorithms and notebooks using scikit-learn, PyTorch and Hugging Face |
+| [fastai/fastbook](https://github.com/fastai/fastbook) | [fastbook](https://github.com/vi14cute/fastbook) | Practical deep-learning notebooks using fastai and PyTorch |
+| [mrdbourke/pytorch-deep-learning](https://github.com/mrdbourke/pytorch-deep-learning) | [pytorch-deep-learning](https://github.com/vi14cute/pytorch-deep-learning) | PyTorch fundamentals, neural networks and training loops |
+| [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | [mlops-zoomcamp](https://github.com/vi14cute/mlops-zoomcamp) | Experiment tracking, deployment and monitoring |
+
+The Knight PDF contains a creative tutorial, not a GitHub repository. Its [Higgsfield reference](https://higgsfield.ai/s/tudormorari-ai-tudormorari.ai-NVXbHH) and [creator website](https://tudormorari.ai) are recorded in the PDF notes. No PDF instructions were executed.
 
 ## Creative applications
 
@@ -48,7 +60,7 @@ These are source-code forks preserving authorship and history. Forking does not 
 - [Founder Skill](https://github.com/Jakeschincariol/founder-skill), linked by Startup Skills.
 - [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar), linked by The FILM Guide.
 
-These are related references. The ten requested forks cover repositories directly supplied in the original list.
+These are related references. The initial ten requested forks and five PDF additions are listed above.
 
 ## Suggested learning order
 
