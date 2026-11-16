@@ -1,8 +1,26 @@
 # AI Learning Library
 
-My organized collection of AI tools, creative apps and study resources. Checked: 30 October 2026.
+My organized collection of AI tools, creative apps and study resources. Updated: 16 November 2026.
 
-This index now includes **15 requested repository forks**, the earlier study references, and the creative links from the two supplied PDFs. This is the library's scope, not the total repository count on my GitHub account. REA and the GPU article were each originally supplied twice.
+This index now includes **22 collected repository forks**, the earlier study references, and the latest PDF and web additions (7 new forks on 16 November). This is the library's scope, not the total repository count on my GitHub account. REA and the GPU article were each originally supplied twice.
+
+## Latest additions - 16 November 2026
+
+[Complete coverage of the 9 new links and 2 PDFs, practical uses, laptop fit and access status](notes/resource-additions-2026-11-16.md).
+
+| New fork | What to use it for |
+| --- | --- |
+| [StageShow (skills)](https://github.com/vi14cute/skills/tree/main/stageshow) | Product UI illustrations and animated demonstrations; skill installed locally |
+| [ECC](https://github.com/vi14cute/ECC) | Study agent planning, testing, review and context-management workflows |
+| [Beginner Local RAG](https://github.com/vi14cute/beginner-local-rag-system) | Learn document retrieval and grounded answers |
+| [Production Agentic RAG Course](https://github.com/vi14cute/production-agentic-rag-course) | Structured course on ingestion, search, RAG, monitoring and agents |
+| [Observable Job Agent](https://github.com/vi14cute/observable-job-agent) | Study job matching, grounded resume tailoring, tracing and evaluation |
+| [Career Ops](https://github.com/vi14cute/career-ops) | Job-search organization and application preparation |
+| [GPU Unlock](https://github.com/vi14cute/gpu-unlock) | Hardware reference only; incompatible with the current Intel UHD laptop |
+
+The machine-learning PDF repeats five existing forks, verified present; it is identical to the earlier PDF. The new build guide contributes three Jam with AI projects. Other resources are indexed as study links: the 3D character guide, Higgsfield Katana page, AI Engineer Roadmap, Tamil n8n video and shared Drive folder.
+
+**Access limits:** the shared Drive folder returns 404; Higgsfield's Katana content remained loading. Both links are retained and clearly marked. Other embedded media and companion links are not represented as fully reviewed. Original third-party PDFs were not republished.
 
 ## AI tools
 
@@ -60,7 +78,7 @@ These are source-code forks preserving authorship and history. Forking does not 
 - [Founder Skill](https://github.com/Jakeschincariol/founder-skill), linked by Startup Skills.
 - [lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar), linked by The FILM Guide.
 
-These are related references. The initial ten requested forks and five PDF additions are listed above.
+These are related references. The earlier ten requested forks, five machine-learning PDF forks and seven November additions are listed above.
 
 ## Suggested learning order
 
